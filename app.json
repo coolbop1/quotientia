@@ -1,0 +1,12 @@
+{
+  "name": "quotienta",
+  "displayName": "quotienta",
+  "expo": {
+    "name": "quotienta",
+    "slug": "quotienta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
